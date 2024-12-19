@@ -13,3 +13,6 @@
 
 运行服务程序
 7. python airadManager/main.py
+
+# 当前项目运行不了
+TODO: 需要列出原因
